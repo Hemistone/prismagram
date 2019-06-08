@@ -6,7 +6,7 @@ instagram clone with express + prisma + react and react-native
 
 - [x] Create account
 - [x] Request Secret
-- [x] Confirm Secret(Login)
+- [x] Confirm Secret (Login)
 - [x] Like / Unlike a photo
 - [x] Comment on a photo
 - [x] Search by user
@@ -14,8 +14,13 @@ instagram clone with express + prisma + react and react-native
 - [x] Follow User
 - [x] Unfollow User
 - [x] Edit my profile
-- [ ] See user profile
-- [ ] See the full photo
-- [ ] Upload photos
-- [ ] Edit the photo (Delete)
+- [x] See user profile
+- [x] See MY profile
+- [x] See the full photo
+- [x] Upload a photo
+- [x] Edit the photo (Delete)
 - [ ] See the feed
+- [ ] See rooms
+- [ ] See room
+- [ ] Send private Message
+- [ ] Receive Message (Realtime)

@@ -1,10 +1,3 @@
-#A definition for post detail, didn't put in the models.graphql since it is not a globaly-used type
-type FullPost {
-  post: Post!
-  comments: [Comment!]!
-  likeCount: Int!
-}
-
 type Query {
-  seeFullPost(id: String!): FullPost!
+  seeFullPost(id: String!): Post!
 }
